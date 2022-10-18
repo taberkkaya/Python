@@ -35,12 +35,12 @@ There are four different methods (modes) for opening a file: """
 
 # To open a file for reading it is enough to specify the name of the file:
 
-f = open("py_tutorial/demofile.txt")
+f = open("demofile.txt")
 
 
 # The code above is the same as:
 
-f = open("py_tutorial/demofile.txt", "rt")
+f = open("demofile.txt", "rt")
 
 
 # Because "r" for read, and "t" for text are the default values, you do not need to specify them.

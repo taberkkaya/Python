@@ -4,7 +4,7 @@
 
 The open() function returns a file object, which has a read() method for reading the content of the file: """
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt","r")
 print(f.read())
 
 
@@ -12,7 +12,7 @@ print(f.read())
 
 # Open a file on a different location:
 
-f = open("C:\\workspaces\py_tutorial\myfiles\welcome.txt", "r")
+f = open("myfiles\welcome.txt", "r")
 print(f.read())
 
 
@@ -20,7 +20,7 @@ print(f.read())
 
 # Return the 5 first characters of the file:
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.read(5))
 
 
@@ -28,13 +28,13 @@ print(f.read(5))
 
 # Read one line of the file:
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.readline())
 
 
 # By calling readline() two times, you can read the two first lines:
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.readline())
 print(f.readline())
 
@@ -43,7 +43,7 @@ print(f.readline())
 
 # Loop through the file line by line:
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt", "r")
 for x in f:
   print(x)
 
@@ -52,7 +52,7 @@ for x in f:
 
 # Close the file when you are finish with it:
 
-f = open("py_tutorial\demofile.txt", "r")
+f = open("demofile.txt", "r")
 print(f.readline())
 f.close()
 

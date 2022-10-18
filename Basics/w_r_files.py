@@ -7,23 +7,23 @@
 
 # Open the file "demofile2.txt" and append content to the file:
 
-f = open("py_tutorial\demofile2.txt", "a")
+f = open("demofile2.txt", "a")
 f.write("Now the file has more content!")
 f.close()
 
 #open and read the file after the appending:
-f = open("py_tutorial\demofile2.txt", "r")
+f = open("demofile2.txt", "r")
 print(f.read())
 
 
 # Open the file "demofile3.txt" and overwrite the content:
 
-f = open("py_tutorial\demofile3.txt", "w")
+f = open("demofile3.txt", "w")
 f.write("Woops! I have deleted the content!")
 f.close()
 
 #open and read the file after the appending:
-f = open("py_tutorial\demofile3.txt", "r")
+f = open("demofile3.txt", "r")
 print(f.read())
 
 
@@ -43,6 +43,6 @@ print(f.read())
 
 # Create a new file if it does not exist:
 
-f = open("py_tutorial\myfile.txt", "x")
+f = open("myfile.txt", "x")
 
 # Result: a new empty file is created!

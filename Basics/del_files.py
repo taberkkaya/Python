@@ -3,7 +3,7 @@
 # Remove the file "demofile.txt":
 
 import os
-os.remove("py_tutorial\demofile.txt")
+os.remove("demofile.txt")
 
 
 # To avoid getting an error, you might want to check if the file exists before you try to delete it:
@@ -12,8 +12,8 @@ os.remove("py_tutorial\demofile.txt")
 # Check if file exists, then delete it:
 
 import os
-if os.path.exists("py_tutorial\demofile.txt"):
-  os.remove("py_tutorial\demofile.txt")
+if os.path.exists("demofile.txt"):
+  os.remove("demofile.txt")
 else:
   print("The file does not exist")
 
@@ -23,6 +23,6 @@ else:
 # Remove the folder "myfolder":
 
 import os
-os.rmdir("py_tutorial\myfolder")
+os.rmdir("myfolder")
 
 # Note: You can only remove empty folders.
