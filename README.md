@@ -68,8 +68,11 @@ In this section I create little experimental programs to play with Python, or to
 
 >*Bu bölümde Python ile oynamak ya da problemleri kendim çözmek için küçük, deneysel programlar oluşturuyorum.*
 
+* *[url_shortener.py]()*
+* *[music_player.py]()*
+* *[drawing_app.py]()*
 * 
-* 
+*
 
 ## Requirements
 ---
@@ -78,12 +81,29 @@ The packages I used to run the code in this section are listed in here.
 
 >*Bu bölümde kodu çalıştırmak için kullandığım paketler burada listelenmiştir.*
 
-**Install Tkinter**
+**Install tkinter**
 
 ```
 pip install tk
 ```
 
+**Install pyshorteners**
+
+```
+pip install pyshorteners
+```
+
+**Install pygame**
+
+```
+pip install pygame
+```
+
+**Install pillow**
+
+```
+pip install pillow
+```
 # Source
 
 * *[GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)*
