@@ -68,9 +68,9 @@ In this section I create little experimental programs to play with Python, or to
 
 >*Bu bölümde Python ile oynamak ya da problemleri kendim çözmek için küçük, deneysel programlar oluşturuyorum.*
 
-* *[url_shortener.py]()*
-* *[music_player.py]()*
-* *[drawing_app.py]()*
+* *[url_shortener.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/url_shortener.py)*
+* *[music_player.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/music_player.py)*
+* *[drawing_app.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/drawing_app.py)*
 * 
 *
 
