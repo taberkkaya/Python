@@ -75,11 +75,10 @@ In this section I create little experimental programs to play with Python, or to
 *
 
 ## Requirements
----
 
-The packages I used to run the code in this section are listed in here.
+The packages I used to run the code are listed in here.
 
->*Bu bölümde kodu çalıştırmak için kullandığım paketler burada listelenmiştir.*
+>*Kodu çalıştırmak için kullandığım paketler burada listelenmiştir.*
 
 **Install tkinter**
 
