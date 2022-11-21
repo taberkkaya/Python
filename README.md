@@ -72,6 +72,12 @@ In this section I create little experimental programs to play with Python, or to
 * *[music_player.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/music_player.py)*
 * *[drawing_app.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/drawing_app.py)*
 * *[file_explorer.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/file_explorer.py)*
+* *[mp3_downloader.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/mp3_downloader.py)*
+* *[text_to_speach.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/text_to_speach.py)*
+* *[passw_protect_pdf.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/passw_protect_pdf.py)*
+* *[merge_pdf.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/merge_pdf.py)*
+* *[calculator.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/calculator.py)*
+*
 *
 
 ## Requirements
@@ -103,6 +109,23 @@ pip install pygame
 ```
 pip install pillow
 ```
+
+**Install pytube**
+
+```
+pip install pytube
+```
+
+**Install pyttsx3**
+```
+pip install pyttsx3
+```
+
+**Install PyPDF2**
+```
+pip install PyPDF2
+```
+
 # Source
 
 * *[GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)*
