@@ -77,7 +77,7 @@ In this section I create little experimental programs to play with Python, or to
 * *[passw_protect_pdf.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/passw_protect_pdf.py)*
 * *[merge_pdf.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/merge_pdf.py)*
 * *[calculator.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/calculator.py)*
-*
+* *[instapp_downloader.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/instapp_downloader.py)*
 *
 
 ## Requirements
@@ -126,6 +126,10 @@ pip install pyttsx3
 pip install PyPDF2
 ```
 
+**Install instaloader**
+```
+pip install instaloader
+```
 # Source
 
 * *[GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)*
