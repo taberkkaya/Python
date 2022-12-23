@@ -78,7 +78,7 @@ In this section I create little experimental programs to play with Python, or to
 * *[merge_pdf.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/merge_pdf.py)*
 * *[calculator.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/calculator.py)*
 * *[instapp_downloader.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/instapp_downloader.py)*
-*
+* *[finger_counter.py](https://github.com/taberkkaya/Python/blob/main/Workspaces/finger_counter.py)*
 
 ## Requirements
 
@@ -129,6 +129,11 @@ pip install PyPDF2
 **Install instaloader**
 ```
 pip install instaloader
+```
+
+**Install mediapipe**
+```
+pip install mediapipe
 ```
 # Source
 
